@@ -14,3 +14,12 @@ footer:
 links:
   - text: GitHub
     link: https://github.com/ra1nei/rainei-lyrics-list
+
+sidebar:
+  - name: Tổng hợp lời Việt hoá các bài hát do mình thực hiện
+    link: /
+  - name: Songs
+    expanded: true
+    pages:
+      - songs/boku-no-kokoro.md
+      - songs/anne-shirley.md
