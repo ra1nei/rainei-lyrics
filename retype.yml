@@ -1,0 +1,16 @@
+input: .
+output: .retype
+
+url: https://rainei-songs.github.io  # Địa chỉ web khi deploy lên GitHub Pages
+
+branding:
+  title: rainei lyrics list
+  label: music
+  # logo: /logo.png  # (nếu bạn có logo, bỏ dòng này nếu không có)
+
+footer:
+  copyright: "© {{ year }} rainei. All rights reserved."
+
+links:
+  - text: GitHub
+    link: https://github.com/ra1nei/rainei-lyrics-list
