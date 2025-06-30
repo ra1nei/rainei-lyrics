@@ -1,4 +1,5 @@
 ## [OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
+[!embed](https://files.catbox.moe/rgooim.mp4)
 Nhìn em giống như một cơn gió trong lành  
 Mặt trời dần đi mất, em lặng lẽ khép mắt  
 Cứ thắc mắc em thấy những điều chi ở trong lòng? 

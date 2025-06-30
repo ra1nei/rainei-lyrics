@@ -15,9 +15,11 @@ links:
     link: https://github.com/ra1nei/rainei-lyrics-list
 
 sidebar:
-  - name: "❓ về trang này"
+  - name: /
+    label: "❓ Về trang này"
     link: /
-  - name: "🎵 songs"
+  - name: songs
+    label: "🎵 Songs"
     expanded: true
     pages:
       - songs/bokuyaba.md
