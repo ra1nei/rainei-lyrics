@@ -9,6 +9,6 @@ Truy cập trang web tại:
 
 ---
 
-> Lưu ý: Dự án phục vụ sở thích cá nhân, không dùng cho mục đích thương mại (Mà có cản thì chắc cũng không được).
+> **Lưu ý**: Dự án phục vụ **sở thích cá nhân**, *KHÔNG* dùng cho mục đích thương mại (Mà có cản thì chắc cũng không được).
 
 Thư mục `songs/` chứa từng bài hát dưới dạng markdown.
