@@ -20,6 +20,7 @@ Cùng bay vút, không biết ngưng, tựa đất trời
 
 ---
 ## [ED1 (milet - Anytime Anywhere)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
+[!embed](https://files.catbox.moe/6s4bj1.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
 Tiếng bước chân của tôi giờ đây dạo bước ở nơi chẳng có ai qua lại
@@ -41,7 +42,7 @@ Tấm lòng vẫn sẽ gánh vác, một cuộc sống u uất ở nơi này
 Và nếu mà thấy bóng dáng ấy, hội ngộ do bao cơn gió đẩy đưa  
 Sẽ không để người xa tôi, dù cho có mưa nắng hay đêm ngày
 
-Cuộc đời này phù phiếm, mất mát chất chồng  
+Cuộc đời này phù phiếm — mất mát chất chồng  
 Nhưng khi đêm thâu giăng lối, tôi lẻ bóng  
 Sớm mai bao giọt nước mắt sẽ ráo và bình minh lên sẽ chiếu môi tôi thêm hồng
 
@@ -49,8 +50,9 @@ Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
 ## [ED2 (milet - Anytime Anywhere)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
-Vẫn còn sống tốt  
-Người đừng có lo  
+[!embed](https://files.catbox.moe/2x1ulv.mp4)
+Vẫn còn sống tốt (Con tim tôi luôn)  
+Người đừng có lo (Mang theo hình dung kia)  
 Mái tóc tôi bấy nay dài thêm giờ đang cùng cơn gió kia vui đùa
 
 Nhìn về những lúc sánh bước bên nhau  
@@ -66,18 +68,19 @@ Có điều, hôm nay tôi xin, được hồi tưởng, nhớ nhung lúc sum v�
 Để nếu mà thấy bóng dáng ấy, hội ngộ do bao cơn gió đẩy đưa  
 Sẽ không do dự lao tới, và kề bên, vun đắp cho đong đầy
 
-Nụ cười ấy vẫn bên kề  
-Tiếp sức cho tôi vững đường bước  
-Người giúp cho tôi vượt qua màn đêm
+Nụ cười ấy vẫn bên kề (Đi nơi đâu, qua bao năm)  
+Tiếp sức cho tôi vững đường bước (Đi nơi đâu, qua bao năm)  
+Người giúp cho tôi vượt qua màn đêm (Đi nơi đâu, qua bao năm)
 
-Đoạn đường phía trước dẫu vô vọng  
-Nhưng trong tim tôi luôn khắc ghi một hình bóng  
-Sớm mai bao giọt nước mắt sẽ ráo và bình minh sẽ chiếu môi tôi thêm hồng
+Đoạn đường phía trước dẫu vô vọng (Đi nơi đâu, qua bao năm)  
+Nhưng trong tim tôi luôn khắc ghi một hình bóng (Đi nơi đâu, qua bao năm)  
+Sớm mai bao giọt nước mắt sẽ ráo và bình minh sẽ chiếu môi tôi thêm hồng (Đi nơi đâu, qua bao năm)
 
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
 ## [milet - Anytime Anywhere](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
+[!embed](https://files.catbox.moe/karelt.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
 Tiếng bước chân của tôi giờ đây dạo bước ở nơi chẳng có ai qua lại
@@ -99,12 +102,12 @@ Tấm lòng vẫn sẽ gánh vác, một cuộc sống u uất ở nơi này
 Và nếu mà thấy bóng dáng ấy, hội ngộ do bao cơn gió đẩy đưa  
 Sẽ không để người xa tôi, dù cho có mưa nắng hay đêm ngày
 
-Cuộc đời này phù phiếm, mất mát chất chồng  
+Cuộc đời này phù phiếm — mất mát chất chồng  
 Nhưng khi đêm thâu giăng lối, tôi lẻ bóng  
 Sớm mai bao giọt nước mắt sẽ ráo và bình minh lên sẽ chiếu môi tôi thêm hồng
 
-Vẫn còn sống tốt  
-Người đừng có lo  
+Vẫn còn sống tốt (Con tim tôi luôn)  
+Người đừng có lo (Mang theo hình dung kia)  
 Mái tóc tôi bấy nay dài thêm giờ đang cùng cơn gió kia vui đùa
 
 Nhìn về những lúc sánh bước bên nhau  
@@ -120,25 +123,25 @@ Tấm lòng vẫn sẽ gánh vác, một cuộc sống u uất ở nơi này
 Và nếu mà thấy bóng dáng ấy, hội ngộ do bao cơn gió đẩy đưa  
 Sẽ không để người xa tôi, dù cho có mưa nắng hay đêm ngày
 
-Nụ cười ấy vẫn bên kề  
-Tiếp sức cho tôi vững đường bước  
-Người giúp cho tôi vượt qua màn đêm
+Nụ cười ấy vẫn bên kề (Đi nơi đâu, qua bao năm)  
+Tiếp sức cho tôi vững đường bước (Đi nơi đâu, qua bao năm)  
+Người giúp cho tôi vượt qua màn đêm (Đi nơi đâu, qua bao năm)
 
-Dù rảo bước tới nơi nào  
-Ánh mắt của người sẽ dìu dắt  
+Dù rảo bước tới nơi nào (Đi nơi đâu, qua bao năm)  
+Ánh mắt của người sẽ dìu dắt (Đi nơi đâu, qua bao năm)  
 
 Chớ có chuyện tôi van xin, rằng tôi mong muốn gặp người đây  
 Có điều, hôm nay tôi xin, được hồi tưởng, nhớ nhung lúc sum vầy  
 Để nếu mà thấy bóng dáng ấy, hội ngộ do bao cơn gió đẩy đưa  
 Sẽ không do dự lao tới, và kề bên, vun đắp cho đong đầy
 
-Cuộc đời này phù phiếm, mất mát chất chồng  
-Nhưng khi đêm thâu giăng lối, tôi lẻ bóng  
-Và mỗi lần cảm thấy nhói đau trong lòng  
+Cuộc đời này phù phiếm — mất mát chất chồng (Đi nơi đâu, qua bao năm)  
+Nhưng khi đêm thâu giăng lối, tôi lẻ bóng (Đi nơi đâu, qua bao năm)  
+Và mỗi lần cảm thấy nhói đau trong lòng (Đi nơi đâu, qua bao năm)  
 Âu cũng là do tôi nhớ tháng năm mặn nồng
 
-Đoạn đường phía trước dẫu vô vọng  
-Nhưng trong tim tôi luôn khắc ghi một hình bóng  
-Sớm mai bao giọt nước mắt sẽ ráo và bình minh sẽ chiếu môi tôi thêm hồng  
+Đoạn đường phía trước dẫu vô vọng (Đi nơi đâu, qua bao năm)  
+Nhưng trong tim tôi luôn khắc ghi một hình bóng (Đi nơi đâu, qua bao năm)  
+Sớm mai bao giọt nước mắt sẽ ráo và bình minh sẽ chiếu môi tôi thêm hồng (Đi nơi đâu, qua bao năm)  
 
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về

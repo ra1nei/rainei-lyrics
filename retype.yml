@@ -22,5 +22,5 @@ sidebar:
     # label: "🎵 Songs"
     expanded: true
     pages:
-      - "songs/BokuYaba (2023).md"
-      - "songs/Frieren (2023).md"
+      - "anime/BokuYaba (2023).md"
+      - "anime/Frieren (2023).md"
