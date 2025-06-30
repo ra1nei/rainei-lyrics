@@ -1,26 +1,14 @@
 input: .
 output: .retype
 
-url: https://rainei-songs.github.io  # Địa chỉ web khi deploy lên GitHub Pages
+url: https://rainei-songs.github.io
 
 branding:
   title: rainei lyrics list
-  # label: music
 
 footer:
   copyright: "© {{ year }} rainei. All rights reserved."
 
 links:
   - text: GitHub
-    link: https://github.com/ra1nei/rainei-lyrics-list
-
-sidebar:
-  - name: "❓ Về trang này"
-    # label: "❓ Về trang này"
-    link: /
-  - name: "🎵 songs"
-    # label: "🎵 Songs"
-    expanded: true
-    pages:
-      - "anime/BokuYaba (2023).md"
-      - "anime/Frieren (2023).md"
+    link: https://github.com/ra1nei/lyrics-list
