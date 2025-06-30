@@ -1,6 +1,4 @@
 ## [OP2 (Atarayo - I…)](https://youtu.be/A0tKGpKOU4Y?si=K9IVZRqKfnCeiABW)
-
----
 Là em đấy, hỡi em à, giúp anh mở mang tầm mắt  
 Rằng thế giới kia, ôi đẹp thay, khắp nơi chìm trong màu sắc 
 

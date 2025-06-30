@@ -5,8 +5,7 @@ url: https://rainei-songs.github.io  # Địa chỉ web khi deploy lên GitHub P
 
 branding:
   title: rainei lyrics list
-  label: music
-  # logo: /logo.png  # (nếu bạn có logo, bỏ dòng này nếu không có)
+  # label: music
 
 footer:
   copyright: "© {{ year }} rainei. All rights reserved."
@@ -16,9 +15,9 @@ links:
     link: https://github.com/ra1nei/rainei-lyrics-list
 
 sidebar:
-  - name: Tổng hợp lời Việt hoá các bài hát do mình thực hiện
+  - name: Về trang này
     link: /
-  - name: Songs
+  - name: songs
     expanded: true
     pages:
       - songs/boku-no-kokoro.md
