@@ -1,0 +1,33 @@
+name: Build & Deploy Retype site
+
+on:
+  push:
+    branches:
+      *  # hoặc đổi thành "*" nếu muốn mọi branch
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Install Retype globally
+      run: npm install -g retypeapp
+
+    - name: Build Retype site
+      run: retype build
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .retype
+        publish_branch: gh-pages
