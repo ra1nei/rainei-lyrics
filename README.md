@@ -5,7 +5,7 @@
 > Nếu có góp ý về lời dịch, hãy liên hệ tại: **khanhdangtran2004@gmail.com** *(hoặc mở issue)*.
 
 Truy cập trang web tại:  
-[https://rainei-songs.github.io](https://rainei-songs.github.io)
+[https://ra1nei.github.io/rainei-lyrics-list/](https://ra1nei.github.io/rainei-lyrics-list/)
 
 ---
 
