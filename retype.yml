@@ -15,9 +15,9 @@ links:
     link: https://github.com/ra1nei/rainei-lyrics-list
 
 sidebar:
-  - name: ❓ Về trang này
+  - name: :question: Về trang này
     link: /
-  - name: 🎵 songs
+  - name: :musical_note: songs
     expanded: true
     pages:
       - songs/boku-no-kokoro.md
