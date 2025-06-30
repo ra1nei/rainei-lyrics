@@ -3,7 +3,7 @@ name: Build & Deploy Retype site
 on:
   push:
     branches:
-      *  # hoặc đổi thành "*" nếu muốn mọi branch
+      - main
   workflow_dispatch:
 
 jobs:
