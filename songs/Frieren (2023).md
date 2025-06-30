@@ -77,7 +77,10 @@ Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
 ## [milet - Anytime Anywhere](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
-### [video](https://files.catbox.moe/1efhd9.mp4)
+<video controls width="100%">
+  <source src="https://files.catbox.moe/1efhd9.mp4" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ phát video.
+</video>
 Này, người ổn chứ?  
 Liệu người có nghe?  
 Tiếng bước chân của tôi giờ đây dạo bước ở nơi chẳng có ai qua lại
