@@ -1,5 +1,5 @@
 ## [OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
-[!embed](https://files.catbox.moe/rgooim.mp4)
+[!embed](https://files.catbox.moe/qzyn0q.mp4)
 Nhìn em giống như một cơn gió trong lành  
 Mặt trời dần đi mất, em lặng lẽ khép mắt  
 Cứ thắc mắc em thấy những điều chi ở trong lòng? 
@@ -78,7 +78,6 @@ Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
 ## [milet - Anytime Anywhere](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
-[!embed](https://files.catbox.moe/1efhd9.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
 Tiếng bước chân của tôi giờ đây dạo bước ở nơi chẳng có ai qua lại
