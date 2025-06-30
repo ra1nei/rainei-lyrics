@@ -15,10 +15,10 @@ links:
     link: https://github.com/ra1nei/rainei-lyrics-list
 
 sidebar:
-  - name: :icon-question: Về trang này
+  - name: "❓ về trang này"
     link: /
-  - name: :icon-log: songs
+  - name: "🎵 songs"
     expanded: true
     pages:
-      - songs/boku-no-kokoro.md
-      - songs/anne-shirley.md
+      - songs/bokuyaba.md
+      - songs/frieren.md
