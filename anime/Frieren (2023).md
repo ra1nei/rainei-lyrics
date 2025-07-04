@@ -1,5 +1,5 @@
 # Season 1
-## [OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
+## [Season 01 - OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
 [!embed](https://files.catbox.moe/qzyn0q.mp4)
 Nhìn em giống như một cơn gió trong lành  
 Mặt trời dần đi mất, em lặng lẽ khép mắt  
@@ -20,7 +20,7 @@ Chạm tới áng mây và còn xa vời hơn thế
 Cùng bay vút, không biết ngưng, tựa đất trời
 
 ---
-## [ED1 (milet - Anytime Anywhere)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
+## [Season 01 - ED1 (milet - Anytime Anywhere)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
 [!embed](https://files.catbox.moe/6s4bj1.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
@@ -50,7 +50,7 @@ Sớm mai bao giọt nước mắt sẽ ráo và bình minh lên sẽ chiếu m�
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
-## [ED2 (milet - Anytime Anywhere)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
+## [Season 01 - ED2 (milet - Anytime Anywhere)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
 [!embed](https://files.catbox.moe/2x1ulv.mp4)
 Vẫn còn sống tốt (Con tim tôi luôn)  
 Người đừng có lo (Mang theo hình dung kia)  
