@@ -145,6 +145,3 @@ Nhưng trong tim tôi luôn khắc ghi một hình bóng (Đi nơi đâu, qua ba
 Sớm mai bao giọt nước mắt sẽ ráo và bình minh sẽ chiếu môi tôi thêm hồng (Đi nơi đâu, qua bao năm)  
 
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
-
----
-# Season 2
