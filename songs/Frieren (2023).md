@@ -1,4 +1,8 @@
-## [Season 01 - OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
+# Sousou no Frieren (2023)
+
+## Season 01
+---
+### [OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
 [!embed](https://files.catbox.moe/qzyn0q.mp4)
 Nhìn em giống như một cơn gió trong lành  
 Mặt trời dần đi mất, em lặng lẽ khép mắt  
@@ -17,9 +21,8 @@ Giữ lấy khát khao ngụ thật sâu và sau đó
 Hoà tấm thân cùng cơn gió  
 Chạm tới áng mây và còn xa vời hơn thế  
 Cùng bay vút, không biết ngưng, tựa đất trời
-
 ---
-## [Season 01 - ED1 (milet - Anytime Anywhere)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
+### [ED1 (milet - Anytime Anywhere)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
 [!embed](https://files.catbox.moe/6s4bj1.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
@@ -47,9 +50,8 @@ Nhưng khi đêm thâu giăng lối, tôi lẻ bóng
 Sớm mai bao giọt nước mắt sẽ ráo và bình minh lên sẽ chiếu môi tôi thêm hồng
 
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
-
 ---
-## [Season 01 - ED2 (milet - Anytime Anywhere)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
+### [ED2 (milet - Anytime Anywhere)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
 [!embed](https://files.catbox.moe/2x1ulv.mp4)
 Vẫn còn sống tốt (Con tim tôi luôn)  
 Người đừng có lo (Mang theo hình dung kia)  
@@ -77,9 +79,8 @@ Nhưng trong tim tôi luôn khắc ghi một hình bóng (Đi nơi đâu, qua ba
 Sớm mai bao giọt nước mắt sẽ ráo và bình minh sẽ chiếu môi tôi thêm hồng (Đi nơi đâu, qua bao năm)
 
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
-
 ---
-## [milet - Anytime Anywhere](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
+### [milet - Anytime Anywhere](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
 [!embed](https://files.catbox.moe/karelt.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
