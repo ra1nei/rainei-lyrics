@@ -1,7 +1,9 @@
 # Sousou no Frieren (2023)
 
 ## Season 01
+
 ---
+
 ### [OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
 [!embed](https://files.catbox.moe/qzyn0q.mp4)
 Nhìn em giống như một cơn gió trong lành  
@@ -23,6 +25,7 @@ Chạm tới áng mây và còn xa vời hơn thế
 Cùng bay vút, không biết ngưng, tựa đất trời
 
 ---
+
 ### [ED1 (milet - Anytime Anywhere)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
 [!embed](https://files.catbox.moe/6s4bj1.mp4)
 Này, người ổn chứ?  
@@ -53,6 +56,7 @@ Sớm mai bao giọt nước mắt sẽ ráo và bình minh lên sẽ chiếu m�
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
+
 ### [ED2 (milet - Anytime Anywhere)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
 [!embed](https://files.catbox.moe/2x1ulv.mp4)
 Vẫn còn sống tốt (Con tim tôi luôn)  
@@ -83,6 +87,7 @@ Sớm mai bao giọt nước mắt sẽ ráo và bình minh sẽ chiếu môi t�
 Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
+
 ### [milet - Anytime Anywhere](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
 [!embed](https://files.catbox.moe/karelt.mp4)
 Này, người ổn chứ?  
