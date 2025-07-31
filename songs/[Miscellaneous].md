@@ -1,4 +1,4 @@
-## [Anne Shirley (2025) - OP1 (Tota - Hope)](https://youtu.be/UQD4mwWpoJc?si=frEWL_rdq1V1bG36)
+## [Anne Shirley (2025) - OP1 (Tota - Hi vọng)](https://youtu.be/UQD4mwWpoJc?si=frEWL_rdq1V1bG36)
 [!embed](https://files.catbox.moe/ia34tp.mp4)
 Thấy vui trong lòng vì chẳng hay cũng chẳng biết được ngày mai  
 Mấy cái thứ hão huyền viển vông, thích nghĩ sao cũng chẳng bị người khác la rầy

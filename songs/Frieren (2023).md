@@ -4,7 +4,7 @@
 
 ---
 
-### [OP2 (Yorushika - Sunny)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
+### [OP2 (Yorushika - Ngày nắng)](https://youtu.be/iqsnJJK8GA4?si=w8-zfo-r8873-68R)
 [!embed](https://files.catbox.moe/qzyn0q.mp4)
 Nhìn em giống như một cơn gió trong lành  
 Mặt trời dần đi mất, em lặng lẽ khép mắt  
@@ -26,7 +26,7 @@ Cùng bay vút, không biết ngưng, tựa đất trời
 
 ---
 
-### [ED1 (milet - Anytime Anywhere)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
+### [ED1 (milet - Đi nơi đâu, Qua bao năm)](https://youtu.be/7pmd0kt3FOs?si=7s45C2eVOJX2pvlQ)
 [!embed](https://files.catbox.moe/6s4bj1.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
@@ -57,7 +57,7 @@ Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
 
-### [ED2 (milet - Anytime Anywhere)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
+### [ED2 (milet - Đi nơi đâu, Qua bao năm)](https://youtu.be/HAOQDCF0jQE?si=ROPED1FRc_r3YDNb)
 [!embed](https://files.catbox.moe/2x1ulv.mp4)
 Vẫn còn sống tốt (Con tim tôi luôn)  
 Người đừng có lo (Mang theo hình dung kia)  
@@ -88,7 +88,7 @@ Thì thầm ngân nga lời ru, mong muốn bóng dáng ấy sẽ trở về
 
 ---
 
-## [milet - Anytime Anywhere](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
+## [milet - Đi nơi đâu, Qua bao năm](https://youtu.be/lv5R6C3hz54?si=Y8sU0ZeYPAWm_n4H)
 [!embed](https://files.catbox.moe/karelt.mp4)
 Này, người ổn chứ?  
 Liệu người có nghe?  
