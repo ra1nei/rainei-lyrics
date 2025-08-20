@@ -1,7 +1,4 @@
-# Boku no Kokoro no Yabai Yatsu (2023)
-
-## Season 02
-
+# Kimi no Na wa. (2016)
 ---
 
 ### [INS1: Yume Tourou (夢灯籠) - Đèn lồng mang ước ao](https://youtu.be/MtLHwqbE1eI?si=aYHcLZu_G08bnJ5m)
